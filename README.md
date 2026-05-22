@@ -1,7 +1,6 @@
 # 🚀 Intervexa — AI-Powered Interview Copilot
 
-Intervexa is a real-time AI interview assistant built to enhance virtual interview experiences with live transcription, intelligent response analysis, resume verification, and smart follow-up generation.
-
+Intervexa is a real-time AI interview assistant built to enhance virtual interview experiences with live transcription, intelligent response analysis, resume verification, and smart follow-up generation. 
 Designed for platforms like Google Meet and Zoom, Intervexa combines multiple AI-powered backend services with a modern browser extension to deliver seamless interview assistance in real time.
 
 ## ✨ Features
